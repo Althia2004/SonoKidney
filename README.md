@@ -1,4 +1,4 @@
-Here’s a ready-to-copy **README.md** for your SonoKidney GitHub repo:
+
 
 ````markdown
 # SonoKidney AI
