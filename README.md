@@ -301,7 +301,7 @@ University of Mindanao
 
 ## License
 
-This project is intended for academic use. You may add a license such as MIT License if you want to make the repository open-source.
+This project is intended for academic use. 
 
 ```
 ```
